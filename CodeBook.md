@@ -86,4 +86,4 @@ The script also appropriately labels the data set with descriptive names: all fe
  .
  .
  
- The result is saved as data_set_with_the_averages.txt, a 180x68 data frame, where as before, the first column contains subject IDs, the second column contains activity names, and then the averages for each of the 66 attributes.
+ The result is saved as "tidy_data.txt", a 180x68 data frame, where as before, the first column contains subject IDs, the second column contains activity names, and then the averages for each of the 66 attributes.
